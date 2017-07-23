@@ -1,0 +1,14 @@
+C:\Users\stark\documents\visual studio 2017\Projects\NotePad for Test\NotePad for Test\bin\Release\NotePad for Test.exe.config
+C:\Users\stark\documents\visual studio 2017\Projects\NotePad for Test\NotePad for Test\bin\Release\NotePad for Test.exe
+C:\Users\stark\documents\visual studio 2017\Projects\NotePad for Test\NotePad for Test\bin\Release\NotePad for Test.pdb
+C:\Users\stark\documents\visual studio 2017\Projects\NotePad for Test\NotePad for Test\obj\Release\NotePad for Test.csprojResolveAssemblyReference.cache
+C:\Users\stark\documents\visual studio 2017\Projects\NotePad for Test\NotePad for Test\obj\Release\MainWindow.g.cs
+C:\Users\stark\documents\visual studio 2017\Projects\NotePad for Test\NotePad for Test\obj\Release\App.g.cs
+C:\Users\stark\documents\visual studio 2017\Projects\NotePad for Test\NotePad for Test\obj\Release\NotePad for Test_MarkupCompile.cache
+C:\Users\stark\documents\visual studio 2017\Projects\NotePad for Test\NotePad for Test\obj\Release\NotePad for Test_MarkupCompile.lref
+C:\Users\stark\documents\visual studio 2017\Projects\NotePad for Test\NotePad for Test\obj\Release\MainWindow.baml
+C:\Users\stark\documents\visual studio 2017\Projects\NotePad for Test\NotePad for Test\obj\Release\NotePad for Test.g.resources
+C:\Users\stark\documents\visual studio 2017\Projects\NotePad for Test\NotePad for Test\obj\Release\NotePad_for_Test.Properties.Resources.resources
+C:\Users\stark\documents\visual studio 2017\Projects\NotePad for Test\NotePad for Test\obj\Release\NotePad for Test.csproj.GenerateResource.Cache
+C:\Users\stark\documents\visual studio 2017\Projects\NotePad for Test\NotePad for Test\obj\Release\NotePad for Test.exe
+C:\Users\stark\documents\visual studio 2017\Projects\NotePad for Test\NotePad for Test\obj\Release\NotePad for Test.pdb
